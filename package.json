@@ -1,0 +1,19 @@
+{
+  "name": "babes-analyst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
+    "@nodeops-createos/sandbox": "^0.8.2",
+    "dotenv": "^18.0.8",
+    "stripe": "^23.0.0"
+  }
+}
